@@ -1,0 +1,11 @@
+{
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs",
+  "fileSortOrder": "alphabetical",
+  "vimMode": true,
+  "communityPluginSortOrder": "release"
+}
