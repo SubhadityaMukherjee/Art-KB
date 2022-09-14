@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Drawing_Things.md",
+            "file": "docs/index.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "37e9bd1434a57fb5",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Drawing_Things.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Drawing_Things.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Drawing_Things.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -127,19 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 191.5
   },
   "active": "677468be70fe3c81",
   "lastOpenFiles": [
-    "docs/How to draw plants.md",
-    "docs/Drawing_Things.md",
+    "docs/Major Classification Plants.md",
+    "docs/Conifers.md",
     "docs/Botany.md",
+    "journal/2022-09-14.md",
+    "docs/Drawing_Things.md",
+    "docs/How to draw plants.md",
     "docs/Leaf Arrangement.md",
     "docs/Compound Leaf Variations.md",
     "docs/Venation Variations.md",
-    "journal/2022-09-14.md",
-    "docs/Leaf Edges.md",
-    "docs/Structure of a Leaf.md",
-    "docs/More Classifications.md"
+    "docs/Leaf Edges.md"
   ]
 }

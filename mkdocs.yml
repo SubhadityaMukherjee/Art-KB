@@ -1,0 +1,76 @@
+site_name: ArtKB-Subhaditya Mukherjee
+
+theme:
+    name: 'windmill'
+      # nav_style: dark
+      #name: null
+      #custom_dir: 'cinder'
+    features:
+        - toc.integrate
+        - toc.follow
+        - search.suggest
+        - navigation.top
+        - navigation.instant
+        - search.share
+        - search.highlight
+          #- navigation.indexes
+    include_sidebar: false
+
+    shortcuts:
+        help: 191    # ?
+        next: 78     # n
+        previous: 80 # p
+        search: 83   # s
+    palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: pink
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    extra:
+      - history_buttons: true
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - pymdownx.details
+  - wikilinks
+  - meta
+  - md_in_html
+  - pymdownx.magiclink
+  - pymdownx.pathconverter
+  - pymdownx.keys
+  - pymdownx.tilde
+  - smarty
+  - nl2br
+  - tables
+
+extra_javascript:
+  - searchindex.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - extra.js
+extra_css:
+    - css/extras.css
+plugins:
+  - search:
+     lang: en
+  - awesome-pages
+  - tags
+  - git-revision-date
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
