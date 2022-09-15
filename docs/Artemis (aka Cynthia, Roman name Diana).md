@@ -1,5 +1,5 @@
 ---
-title: docs/[[[[Artemis](Artemis.md)]([Artemis](Artemis.md).md)]([[Artemis](Artemis.md)]([Artemis](Artemis.md).md).md)]([[[Artemis](Artemis.md)]([Artemis](Artemis.md).md)]([[Artemis](Artemis.md)]([Artemis](Artemis.md).md).md).md) (aka Cynthia, Roman name Diana)
+title: docs/Artemis (aka Cynthia, Roman name Diana)
 tags: greek deity
 ---
 

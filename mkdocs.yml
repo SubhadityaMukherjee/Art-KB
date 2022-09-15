@@ -57,11 +57,20 @@ markdown_extensions:
   - smarty
   - nl2br
   - tables
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+        #- toc:
+        # toc_depth: 3
+
 
 extra_javascript:
   - searchindex.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - extra.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 extra_css:
     - css/extras.css
 plugins:
