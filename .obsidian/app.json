@@ -8,5 +8,5 @@
   "fileSortOrder": "alphabetical",
   "vimMode": true,
   "communityPluginSortOrder": "release",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }

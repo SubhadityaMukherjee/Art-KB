@@ -1,5 +1,5 @@
 ---
-title: docs/[[Niu Lang.md|[[Niu Lang]]](Niu%20Lang.md)](Niu%20Lang.md) & Zhi Nu
+title: docs/[[Niu Lang.md|[Niu Lang.md|[[Niu Lang]]](Niu%20Lang.md) & Zhi Nu
 tags: chinese deity
 ---
 

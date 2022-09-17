@@ -1,5 +1,5 @@
 ---
-title: docs/Crius (aka [[Crios.md|[[[Crios]]]([[Crios.md]].md)]([[Crios.md|[Crios]]]([[Crios.md]].md).md)]([[Crios.md|[[Crios]]]([[Crios.md]].md)]([[Crios.md|[Crios]]]([[Crios.md]].md).md).md), Kreios, Krios)
+title: docs/Crius (aka [[[[Crios.md]].md|[Crios.md|[[[Crios]]]([[[[Crios.md]].md|[Crios.md|[Crios]].md)]([[[[Crios.md]].md|[Crios.md|[[Crios]]]([[[[Crios.md]].md|[Crios.md|[Crios]].md).md), Kreios, Krios)
 tags: greek deity
 ---
 

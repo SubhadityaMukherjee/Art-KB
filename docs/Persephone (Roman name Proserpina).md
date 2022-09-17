@@ -1,5 +1,5 @@
 ---
-title: docs/[[Persephone.md|[[[Persephone]]]([[Persephone.md]].md)]([[Persephone.md|[Persephone]]]([[Persephone.md]].md).md)]([[Persephone.md|[[Persephone]]]([[Persephone.md]].md)]([[Persephone.md|[Persephone]]]([[Persephone.md]].md).md).md) (Roman name Proserpina)
+title: docs/[[[[Persephone.md]].md|[Persephone.md|[[[Persephone]]]([[[[Persephone.md]].md|[Persephone.md|[Persephone]].md)]([[[[Persephone.md]].md|[Persephone.md|[[Persephone]]]([[[[Persephone.md]].md|[Persephone.md|[Persephone]].md).md) (Roman name Proserpina)
 tags: greek deity
 ---
 

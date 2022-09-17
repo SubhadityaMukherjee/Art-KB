@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-09-17.md",
+            "file": "docs/index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-09-17.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-09-17.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-09-17.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "677468be70fe3c81",
   "lastOpenFiles": [
-    "docs/Marina Abramović.md",
     "journal/2022-09-17.md",
+    "docs/Agent Orange Experiments.md",
     "docs/Human Experiments.md",
-    "docs/Project QKHILLTOP.md",
-    "docs/Unit 731.md",
-    "docs/Milgram Shock Experiments.md",
-    "templates/titler.md",
-    "docs/Re-Enactment by Francis Alÿs.md",
-    "docs/Chaos (aka Khaos).md",
-    "docs/Deimos.md"
+    "docs/Dr. William Beaumont and the Stomach.md",
+    "docs/index.md",
+    "docs/Botany.md",
+    "docs/Major Classification Plants.md",
+    "docs/Mosses and Liverworts.md",
+    "docs/Typhon (aka Typhaon, Typhoeus, Typhos).md",
+    "docs/Plutus (aka Ploutos).md"
   ]
 }

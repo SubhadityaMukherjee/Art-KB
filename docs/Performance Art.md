@@ -18,7 +18,7 @@ tags: performanceart
 - [[docs/Interior Scroll by Carolee Schneemann.md]]
 - [[docs/Punk Prayer by Pussy Riot.md]]
 - [[docs/Trans-fixed by Chris Burden.md]]
-- [[Time Clock Piece) by Tehching Hsieh](docs/One Year Performance (Time Clock Piece|One Year Performance (Time Clock Piece) by Tehching Hsieh]]%20by%20Tehching%20Hsieh.md)
+- [[docs/One Year Performance (Time Clock Piece|One Year Performance (Time Clock Piece|[Time Clock Piece) by Tehching Hsieh]] by Tehching Hsieh]]%20by%20Tehching%20Hsieh.md)
 - [[docs/Re-Enactment by Francis Alÿs.md]]
 - [[docs/4'33 By John Cage.md]]
 - [[docs/Open Score by Robert Rauschenberg.md]]

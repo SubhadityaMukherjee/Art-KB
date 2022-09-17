@@ -1,8 +1,9 @@
 ---
-title: Chinese [[Deities.md|[[[Deities]]]([[Deities.md]].md)]([[Deities.md|[Deities]]]([[Deities.md]].md).md)]([[Deities.md|[[Deities]]]([[Deities.md]].md)]([[Deities.md|[Deities]]]([[Deities.md]].md).md).md)
+title: Chinese Deities
 
 tags: deity
 ---
+# Chinese Deities
 
 - [[Dragon.md]]
 - [[Shangti.md]]
@@ -52,7 +53,7 @@ tags: deity
 - [[Fu Xi.md]]
 - [[Gong Gong.md]]
 - [[Cai Shen.md]]
-- [[二十八星宿)](Er Shi Ba Xing Siu (二十八星宿|Er Shi Ba Xing Siu (二十八星宿)]].md)
+- [[Er Shi Ba Xing Siu (二十八星宿|Er Shi Ba Xing Siu (二十八星宿|[二十八星宿)]]]].md)
 - [[Fu Lu Shou.md]]
 - [[Hua Guang Da Di.md]]
 - [[Kui Xing.md]]
@@ -83,7 +84,7 @@ tags: deity
 - [[Fa Hai.md]]
 - [[Liang Shanbo.md]]
 - [[Liu Yi.md]]
-- [[龙宫三公主)](Long Gong San Gong Zhu (龙宫三公主|Long Gong San Gong Zhu (龙宫三公主)]].md)
+- [[Long Gong San Gong Zhu (龙宫三公主|Long Gong San Gong Zhu (龙宫三公主|[龙宫三公主)]]]].md)
 - [[Meng Jiao.md]]
 - [[Meng Jiang Nü.md]]
 - [[Niu Lang.md]]
@@ -108,4 +109,4 @@ tags: deity
 - [[Duo Wen Tian Wang.md]]
 - [[Wei Tuo.md]]
 - [[Wen Shu.md]]
-- [[Yao Shi Fo.md|[Yao Shi Fo]]](Yao%20Shi%20Fo.md)
+- [[Yao Shi Fo.md|[Yao Shi Fo.md|[Yao Shi Fo]]
