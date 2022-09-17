@@ -5,4 +5,4 @@ tags: drawing
 ---
 
 # Drawing_Things
-- [How to draw plants](How%20to%20draw%20plants.md)
+- [[How to draw plants.md]]

@@ -4,4 +4,4 @@ tags: greek deity
 ---
 
 # Eurynome 
-- Titaness and mother of the three Charities fathered by [Zeus](Zeus.md).
+- Titaness and mother of the three Charities fathered by [[Zeus.md]].

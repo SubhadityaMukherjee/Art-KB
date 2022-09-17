@@ -5,50 +5,50 @@ tags: performanceart
 ---
 # Performance Art
 
-- [Marina Abramović](Marina%20Abramović.md)
-- [Mishima's Suicide by Yukio Mishima](docs/Mishima's%20Suicide%20by%20Yukio%20Mishima.md)
-- [Triadic Ballet by Oskar Schlemmer](docs/Triadic%20Ballet%20by%20Oskar%20Schlemmer.md)
-- [Seedbed by Vito Acconci](docs/Seedbed%20by%20Vito%20Acconci.md)
-- [The Joy of Life by Jikken Kobo](docs/The%20Joy%20of%20Life%20by%20Jikken%20Kobo.md)
-- [Parade by Pablo Picasso & Ballet Russe](docs/Parade%20by%20Pablo%20Picasso%20&%20Ballet%20Russe.md)
-- [WallFloor Positions by Bruce Nauman](docs/WallFloor%20Positions%20by%20Bruce%20Nauman.md)
-- [Wharfage by CAMP](docs/Wharfage%20by%20CAMP.md)
-- [Berlin Mix by Christian Marclay](docs/Berlin%20Mix%20by%20Christian%20Marclay.md)
-- [The Life and Times by Andy Warhol](docs/The%20Life%20and%20Times%20by%20Andy%20Warhol.md)
-- [Interior Scroll by Carolee Schneemann](docs/Interior%20Scroll%20by%20Carolee%20Schneemann.md)
-- [Punk Prayer by Pussy Riot](docs/Punk%20Prayer%20by%20Pussy%20Riot.md)
-- [Trans-fixed by Chris Burden](docs/Trans-fixed%20by%20Chris%20Burden.md)
-- [One Year Performance (Time Clock Piece) by Tehching Hsieh](docs/One%20Year%20Performance%20(Time%20Clock%20Piece)%20by%20Tehching%20Hsieh.md)
-- [Re-Enactment by Francis Alÿs](docs/Re-Enactment%20by%20Francis%20Alÿs.md)
-- [4'33 By John Cage](docs/4'33%20By%20John%20Cage.md)
-- [Open Score by Robert Rauschenberg](docs/Open%20Score%20by%20Robert%20Rauschenberg.md)
-- [Yard by Allan Kaprow](docs/Yard%20by%20Allan%20Kaprow.md)
-- [I Like America and America Likes Me by Joseph Beuys](docs/I%20Like%20America%20and%20America%20Likes%20Me%20by%20Joseph%20Beuys.md)
-- [Pandrogeny by Genesis Breyer P-Orridge](docs/Pandrogeny%20by%20Genesis%20Breyer%20P-Orridge.md)
-- [The Death of The Artist](docs/The%20Death%20of%20The%20Artist.md)
-- [The Fathers](docs/The%20Fathers.md)
-- [Five Day Locker Piece](docs/Five%20Day%20Locker%20Piece.md)
-- [Fixation by Pyotr Pavlensky](docs/Fixation%20by%20Pyotr%20Pavlensky.md)
-- [Exposición No. 1 by Guillermo Vargas Jiménez](docs/Exposición%20No.%201%20by%20Guillermo%20Vargas%20Jiménez.md)
-- [Self Obliteration by Ron Athey](docs/Self%20Obliteration%20by%20Ron%20Athey.md)
-- [And Counting… by Wafaa Bilal](docs/And%20Counting…%20by%20Wafaa%20Bilal.md)
-- [Acciones Urbanas by Elvira Santamaría](docs/Acciones%20Urbanas%20by%20Elvira%20Santamaría.md)
-- [The Reincarnation of Saint Orlan by Orlan](docs/The%20Reincarnation%20of%20Saint%20Orlan%20by%20Orlan.md)
-- [Testicle Banquet by Mao Sugiyama](docs/Testicle%20Banquet%20by%20Mao%20Sugiyama.md)
-- [Shoot by Chris Burden](docs/Shoot%20by%20Chris%20Burden.md)
-- [Separation by Petr Pavlensky](docs/Separation%20by%20Petr%20Pavlensky.md)
-- [In Search of the Miraculous by Bas Jan Ader](docs/In%20Search%20of%20the%20Miraculous%20by%20Bas%20Jan%20Ader.md)
-- [Iron, Hide by Yang Zhichao](docs/Iron,%20Hide%20by%20Yang%20Zhichao.md)
-- [A Spooky Still Life](docs/A%20Spooky%20Still%20Life.md)
-- [A Mythological Monster](docs/A%20Mythological%20Monster.md)
-- [Biblical Revenge](docs/Biblical%20Revenge.md)
-- [An Electrifying Event](docs/An%20Electrifying%20Event.md)
-- [Mysterious Memories](docs/Mysterious%20Memories.md)
-- [A Chilling Beheading](docs/A%20Chilling%20Beheading.md)
-- [Visited by the Skeleton Specter](docs/Visited%20by%20the%20Skeleton%20Specter.md)
-- [A Creepy-Crawly Creature](docs/A%20Creepy-Crawly%20Creature.md)
-- [A 'Scream Passing Through Nature'](docs/A%20'Scream%20Passing%20Through%20Nature'.md)
-- [A Bad Dream](docs/A%20Bad%20Dream.md)
-- [Death is Victorious](docs/Death%20is%20Victorious.md)
-- [A Monstrous Beauty](docs/A%20Monstrous%20Beauty.md)
-- [A Surreal Scene](docs/A%20Surreal%20Scene.md)
+- [[Marina Abramović.md]]
+- [[docs/Mishima's Suicide by Yukio Mishima.md]]
+- [[docs/Triadic Ballet by Oskar Schlemmer.md]]
+- [[docs/Seedbed by Vito Acconci.md]]
+- [[docs/The Joy of Life by Jikken Kobo.md]]
+- [[docs/Parade by Pablo Picasso & Ballet Russe.md]]
+- [[docs/WallFloor Positions by Bruce Nauman.md]]
+- [[docs/Wharfage by CAMP.md]]
+- [[docs/Berlin Mix by Christian Marclay.md]]
+- [[docs/The Life and Times by Andy Warhol.md]]
+- [[docs/Interior Scroll by Carolee Schneemann.md]]
+- [[docs/Punk Prayer by Pussy Riot.md]]
+- [[docs/Trans-fixed by Chris Burden.md]]
+- [[Time Clock Piece) by Tehching Hsieh](docs/One Year Performance (Time Clock Piece|One Year Performance (Time Clock Piece) by Tehching Hsieh]]%20by%20Tehching%20Hsieh.md)
+- [[docs/Re-Enactment by Francis Alÿs.md]]
+- [[docs/4'33 By John Cage.md]]
+- [[docs/Open Score by Robert Rauschenberg.md]]
+- [[docs/Yard by Allan Kaprow.md]]
+- [[docs/I Like America and America Likes Me by Joseph Beuys.md]]
+- [[docs/Pandrogeny by Genesis Breyer P-Orridge.md]]
+- [[docs/The Death of The Artist.md]]
+- [[docs/The Fathers.md]]
+- [[docs/Five Day Locker Piece.md]]
+- [[docs/Fixation by Pyotr Pavlensky.md]]
+- [[docs/Exposición No. 1 by Guillermo Vargas Jiménez.md]]
+- [[docs/Self Obliteration by Ron Athey.md]]
+- [[docs/And Counting… by Wafaa Bilal.md]]
+- [[docs/Acciones Urbanas by Elvira Santamaría.md]]
+- [[docs/The Reincarnation of Saint Orlan by Orlan.md]]
+- [[docs/Testicle Banquet by Mao Sugiyama.md]]
+- [[docs/Shoot by Chris Burden.md]]
+- [[docs/Separation by Petr Pavlensky.md]]
+- [[docs/In Search of the Miraculous by Bas Jan Ader.md]]
+- [[docs/Iron, Hide by Yang Zhichao.md]]
+- [[docs/A Spooky Still Life.md]]
+- [[docs/A Mythological Monster.md]]
+- [[docs/Biblical Revenge.md]]
+- [[docs/An Electrifying Event.md]]
+- [[docs/Mysterious Memories.md]]
+- [[docs/A Chilling Beheading.md]]
+- [[docs/Visited by the Skeleton Specter.md]]
+- [[docs/A Creepy-Crawly Creature.md]]
+- [[docs/A 'Scream Passing Through Nature'.md]]
+- [[docs/A Bad Dream.md]]
+- [[docs/Death is Victorious.md]]
+- [[docs/A Monstrous Beauty.md]]
+- [[docs/A Surreal Scene.md]]

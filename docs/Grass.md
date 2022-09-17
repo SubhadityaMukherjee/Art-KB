@@ -5,4 +5,4 @@ tags: botany
 ---
 
 # Grass
-- ![](Pasted%20image%2020220914132939.png)
+- ![[Pasted image 20220914132939.png]]

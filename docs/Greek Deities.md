@@ -1,173 +1,173 @@
 ---
-title: Greek [[[[Deities](Deities.md)]([Deities](Deities.md).md)]([[Deities](Deities.md)]([Deities](Deities.md).md).md)]([[[Deities](Deities.md)]([Deities](Deities.md).md)]([[Deities](Deities.md)]([Deities](Deities.md).md).md).md)
+title: Greek [[Deities.md|[[[Deities]]]([[Deities.md]].md)]([[Deities.md|[Deities]]]([[Deities.md]].md).md)]([[Deities.md|[[Deities]]]([[Deities.md]].md)]([[Deities.md|[Deities]]]([[Deities.md]].md).md).md)
 
 tags: deity
 ---
 
-- [Hera](Hera.md)
-- [Athena](Athena.md)
-- [Artemis](Artemis.md)
-- [Aphrodite](Aphrodite.md)
-- [Hestia](Hestia.md)
-- [Iris](Iris.md)
-- [Penelope](Penelope.md)
-- [Phoebe](Phoebe.md)
-- [Chloe](Chloe.md)
-- [Persephone](Persephone.md)
-- [Aceso](Aceso.md)
-- [Achelois](Achelois.md)
-- [Achelous](Achelous.md)
-- [Achlys](Achlys.md)
-- [Acis (aka Acinius, Akis)](Acis%20(aka%20Acinius,%20Akis).md)
-- [Aegaeon (aka Aigaion)](Aegaeon%20(aka%20Aigaion).md)
-- [Aeolus (aka Aeolos, Aiolos, Aiolus, Eolus)](Aeolus%20(aka%20Aeolos,%20Aiolos,%20Aiolus,%20Eolus).md)
-- [Aeacus (aka Aiakos)](Aeacus%20(aka%20Aiakos).md)
-- [Aether (aka Aither, Akmon, Ether)](Aether%20(aka%20Aither,%20Akmon,%20Ether).md)
-- [Aetna (aka Aitna)](Aetna%20(aka%20Aitna).md)
-- [Aglaia](Aglaia.md)
-- [Alastor](Alastor.md)
-- [Alcyone](Alcyone.md)
-- [Amphitrite (Roman name Salacia)](Amphitrite%20(Roman%20name%20Salacia).md)
-- [Ananke (aka Adrastea)](Ananke%20(aka%20Adrastea).md)
-- [Angelos (aka Angelia)](Angelos%20(aka%20Angelia).md)
-- [Anteros](Anteros.md)
-- [Antheia](Antheia.md)
-- [Apate](Apate.md)
-- [Aphaia (aka Aphaea)](Aphaia%20(aka%20Aphaea).md)
-- [Aphrodite (Roman nameVenus)](Aphrodite%20(Roman%20nameVenus).md)
-- [Apollo (aka Apollon)](Apollo%20(aka%20Apollon).md)
-- [Ares (Roman name Mars)](Ares%20(Roman%20name%20Mars).md)
-- [Ariadne](Ariadne.md)
-- [Aristaeus (aka Aristaios)](Aristaeus%20(aka%20Aristaios).md)
-- [Artemis (aka Cynthia, Roman name Diana)](Artemis%20(aka%20Cynthia,%20Roman%20name%20Diana).md)
-- [Asclepius (aka Aesculapius, Asklepios)](Asclepius%20(aka%20Aesculapius,%20Asklepios).md)
-- [Asteria (aka Asterie)](Asteria%20(aka%20Asterie).md)
-- [Astraea (aka Astrea, Astraia)](Astraea%20(aka%20Astrea,%20Astraia).md)
-- [Astraeus (aka Astraios)](Astraeus%20(aka%20Astraios).md)
-- [Até (aka Ate, Atë, Aite)](Até%20(aka%20Ate,%20Atë,%20Aite).md)
-- [Athena (aka Athene; Roman name Minerva, Menerva)](Athena%20(aka%20Athene;%20Roman%20name%20Minerva,%20Menerva).md)
-- [Atlas](Atlas.md)
-- [Atropos (aka Aisa; Roman name Morta)](Atropos%20(aka%20Aisa;%20Roman%20name%20Morta).md)
-- [Aura](Aura.md)
-- [Bia](Bia.md)
-- [Boreas(aka Aquilo, Aquilon)](Boreas(aka%20Aquilo,%20Aquilon).md)
-- [Brizo](Brizo.md)
-- [Caerus](Caerus.md)
-- [Calliope](Calliope.md)
-- [Calypso (aka Kalypso)](Calypso%20(aka%20Kalypso).md)
-- [Castor (aka Castore, Kastor)](Castor%20(aka%20Castore,%20Kastor).md)
-- [Celaeno](Celaeno.md)
-- [Cerus](Cerus.md)
-- [Ceto (aka Keto)](Ceto%20(aka%20Keto).md)
-- [Chaos (aka Khaos)](Chaos%20(aka%20Khaos).md)
-- [Charon (aka Charun)](Charon%20(aka%20Charun).md)
-- [Chione (aka Khione)](Chione%20(aka%20Khione).md)
-- [Chronos (aka Chronus, Khronos)](Chronos%20(aka%20Chronus,%20Khronos).md)
-- [Circe (aka Kirke)](Circe%20(aka%20Kirke).md)
-- [Cleo (aka Clio, Kleio)](Cleo%20(aka%20Clio,%20Kleio).md)
-- [Clotho (Roman name Nona)](Clotho%20(Roman%20name%20Nona).md)
-- [Clymene](Clymene.md)
-- [Crios](Crios.md)
-- [Crius (aka Crios, Kreios, Krios)](Crius%20(aka%20Crios,%20Kreios,%20Krios).md)
-- [Cronus (aka Cronos, Kronos, Roman name Saturn)](Cronus%20(aka%20Cronos,%20Kronos,%20Roman%20name%20Saturn).md)
-- [Deimos](Deimos.md)
-- [Delphin](Delphin.md)
-- [Demeter (Roman name Ceres)](Demeter%20(Roman%20name%20Ceres).md)
-- [Despoina (aka Despoena, Despoine)](Despoina%20(aka%20Despoena,%20Despoine).md)
-- [Dike (aka Dice)](Dike%20(aka%20Dice).md)
-- [Dinlas](Dinlas.md)
-- [Dione](Dione.md)
-- [Dionysus](Dionysus.md)
-- [Doris](Doris.md)
-- [Eileithyia (aka Ilithyia, Roman name Lucina)](Eileithyia%20(aka%20Ilithyia,%20Roman%20name%20Lucina).md)
-- [Eirene (aka Irene, Roman name Pax)](Eirene%20(aka%20Irene,%20Roman%20name%20Pax).md)
-- [Eireisone](Eireisone.md)
-- [Electra (aka Elektra)](Electra%20(aka%20Elektra).md)
-- [Electryone (aka Alectrona, Electryo)](Electryone%20(aka%20Alectrona,%20Electryo).md)
-- [Elpis (Roman name Spes)](Elpis%20(Roman%20name%20Spes).md)
-- [Enyo (aka Bellona)](Enyo%20(aka%20Bellona).md)
-- [Eos (Roman name Aurora)](Eos%20(Roman%20name%20Aurora).md)
-- [Epimetheus](Epimetheus.md)
-- [Erato](Erato.md)
-- [Erebus (aka Erebos)](Erebus%20(aka%20Erebos).md)
-- [Eris (Roman name Discordia)](Eris%20(Roman%20name%20Discordia).md)
-- [Eros (Roman name Amor, Cupid)](Eros%20(Roman%20name%20Amor,%20Cupid).md)
-- [Eunomia](Eunomia.md)
-- [Eurus (aka Euros; Roman name Vulturnus)](Eurus%20(aka%20Euros;%20Roman%20name%20Vulturnus).md)
-- [Eurynome](Eurynome.md)
-- [Euterpe](Euterpe.md)
-- [Gaia (aka Gaea)](Gaia%20(aka%20Gaea).md)
-- [Ganymede](Ganymede.md)
-- [Glaucus (aka Glaukos)](Glaucus%20(aka%20Glaukos).md)
-- [Hades (Roman name Pluto)](Hades%20(Roman%20name%20Pluto).md)
-- [Harmonia (Roman name Concordia)](Harmonia%20(Roman%20name%20Concordia).md)
-- [Hebe (Roman name Juventas)](Hebe%20(Roman%20name%20Juventas).md)
-- [Hecate (aka Hekate, Roman name Trivia)](Hecate%20(aka%20Hekate,%20Roman%20name%20Trivia).md)
-- [Hedone (Roman name Voluptas)](Hedone%20(Roman%20name%20Voluptas).md)
-- [Helios](Helios.md)
-- [Hemera](Hemera.md)
-- [Hephaestus (aka Hephaistos; Roman name Vulcan)](Hephaestus%20(aka%20Hephaistos;%20Roman%20name%20Vulcan).md)
-- [Hera (Roman name Juno)](Hera%20(Roman%20name%20Juno).md)
-- [Heracles (aka Herakles; Roman name Hercules)](Heracles%20(aka%20Herakles;%20Roman%20name%20Hercules).md)
-- [Hermes (Roman name Mercury)](Hermes%20(Roman%20name%20Mercury).md)
-- [Hesperus (Roman name Vesper)](Hesperus%20(Roman%20name%20Vesper).md)
-- [Hestia (Roman name Vesta)](Hestia%20(Roman%20name%20Vesta).md)
-- [Hygieia (aka Hygiea)](Hygieia%20(aka%20Hygiea).md)
-- [Hymenaios (aka Hymen, Hymenaeus)](Hymenaios%20(aka%20Hymen,%20Hymenaeus).md)
-- [Hyperion](Hyperion.md)
-- [Hypnos](Hypnos.md)
-- [Iris](Iris.md)
-- [Kotys (aka Cotys)](Kotys%20(aka%20Cotys).md)
-- [Kratos (aka Cratos)](Kratos%20(aka%20Cratos).md)
-- [Lacheses](Lacheses.md)
-- [Laso (aka Leso)](Laso%20(aka%20Leso).md)
-- [Lyssa (aka Lytta)](Lyssa%20(aka%20Lytta).md)
-- [Maia](Maia.md)
-- [Mania (aka Maniae, Maniai)](Mania%20(aka%20Maniae,%20Maniai).md)
-- [Melpomene](Melpomene.md)
-- [Merope](Merope.md)
-- [Metis](Metis.md)
-- [Momus (aka Momos)](Momus%20(aka%20Momos).md)
-- [Morpheus](Morpheus.md)
-- [Nemesis](Nemesis.md)
-- [Nereus](Nereus.md)
-- [Nike (Roman name Victoria)](Nike%20(Roman%20name%20Victoria).md)
-- [Notus (aka Notos)](Notus%20(aka%20Notos).md)
-- [Nyx (Roman name Nox)](Nyx%20(Roman%20name%20Nox).md)
-- [Oceanus](Oceanus.md)
-- [Pallas](Pallas.md)
-- [Pan (Roman name Faunus)](Pan%20(Roman%20name%20Faunus).md)
-- [Panacea (aka Panakeia)](Panacea%20(aka%20Panakeia).md)
-- [Peitho (aka Peitha)](Peitho%20(aka%20Peitha).md)
-- [Persephone (Roman name Proserpina)](Persephone%20(Roman%20name%20Proserpina).md)
-- [Pheme (Roman name Fama)](Pheme%20(Roman%20name%20Fama).md)
-- [Phosphorus (aka Phosphor, Latin name Lucifer)](Phosphorus%20(aka%20Phosphor,%20Latin%20name%20Lucifer).md)
-- [Plutus (aka Ploutos)](Plutus%20(aka%20Ploutos).md)
-- [Pollux (aka Polydeuces)](Pollux%20(aka%20Polydeuces).md)
-- [Polyhymnia (aka Polymnia)](Polyhymnia%20(aka%20Polymnia).md)
-- [Pontus (aka Pontos)](Pontus%20(aka%20Pontos).md)
-- [Poseidon (Roman name Neptune)](Poseidon%20(Roman%20name%20Neptune).md)
-- [Priapus (aka Priapos)](Priapus%20(aka%20Priapos).md)
-- [Pricus](Pricus.md)
-- [Prometheus](Prometheus.md)
-- [Proteus](Proteus.md)
-- [Rhea (aka Cybele)](Rhea%20(aka%20Cybele).md)
-- [Selene (Roman name Luna)](Selene%20(Roman%20name%20Luna).md)
-- [Sterope (aka Asterope)](Sterope%20(aka%20Asterope).md)
-- [Styx](Styx.md)
-- [Tartarus](Tartarus.md)
-- [Taygete](Taygete.md)
-- [Terpsichore](Terpsichore.md)
-- [Thalassa](Thalassa.md)
-- [Thalia](Thalia.md)
-- [Thanatos (Roman name Mors)](Thanatos%20(Roman%20name%20Mors).md)
-- [Themis](Themis.md)
-- [Thetis](Thetis.md)
-- [Triton](Triton.md)
-- [Tech (Roman name Fortuna)](Tech%20(Roman%20name%20Fortuna).md)
-- [Typhon (aka Typhaon, Typhoeus, Typhos) - God of monsters who battled for control of Mount Olympus.](Typhon%20(aka%20Typhaon,%20Typhoeus,%20Typhos)%20-%20God%20of%20monsters%20who%20battled%20for%20control%20of%20Mount%20Olympus..md)
-- [Urania](Urania.md)
-- [Uranus](Uranus.md)
-- [Zelus (aka Zelos)](Zelus%20(aka%20Zelos).md)
-- [Zephyrus (aka Zephyros, Zephyr; Roman name Favonius)](Zephyrus%20(aka%20Zephyros,%20Zephyr;%20Roman%20name%20Favonius).md)
-- [Zeus](Zeus.md)
+- [[Hera.md]]
+- [[Athena.md]]
+- [[Artemis.md]]
+- [[Aphrodite.md]]
+- [[Hestia.md|Hestia]]
+- [[Iris.md]]
+- [[Penelope.md]]
+- [[Phoebe.md]]
+- [[Chloe.md]]
+- [[Persephone.md]]
+- [[Aceso.md]]
+- [[Achelois.md]]
+- [[Achelous.md]]
+- [[Achlys.md]]
+- [[aka Acinius, Akis)](Acis (aka Acinius, Akis|Acis (aka Acinius, Akis)]].md)
+- [[aka Aigaion)](Aegaeon (aka Aigaion|Aegaeon (aka Aigaion)]].md)
+- [[aka Aeolos, Aiolos, Aiolus, Eolus)](Aeolus (aka Aeolos, Aiolos, Aiolus, Eolus|Aeolus (aka Aeolos, Aiolos, Aiolus, Eolus)]].md)
+- [[aka Aiakos)](Aeacus (aka Aiakos|Aeacus (aka Aiakos)]].md)
+- [[aka Aither, Akmon, Ether)](Aether (aka Aither, Akmon, Ether|Aether (aka Aither, Akmon, Ether)]].md)
+- [[aka Aitna)](Aetna (aka Aitna|Aetna (aka Aitna)]].md)
+- [[Aglaia.md]]
+- [[Alastor.md]]
+- [[Alcyone.md]]
+- [[Roman name Salacia)](Amphitrite (Roman name Salacia|Amphitrite (Roman name Salacia)]].md)
+- [[aka Adrastea)](Ananke (aka Adrastea|Ananke (aka Adrastea)]].md)
+- [[aka Angelia)](Angelos (aka Angelia|Angelos (aka Angelia)]].md)
+- [[Anteros.md]]
+- [[Antheia.md]]
+- [[Apate.md]]
+- [[aka Aphaea)](Aphaia (aka Aphaea|Aphaia (aka Aphaea)]].md)
+- [[Roman nameVenus)](Aphrodite (Roman nameVenus|Aphrodite (Roman nameVenus)]].md)
+- [[aka Apollon)](Apollo (aka Apollon|Apollo (aka Apollon)]].md)
+- [[Roman name Mars)](Ares (Roman name Mars|Ares (Roman name Mars)]].md)
+- [[Ariadne.md]]
+- [[aka Aristaios)](Aristaeus (aka Aristaios|Aristaeus (aka Aristaios)]].md)
+- [[aka Cynthia, Roman name Diana)](Artemis (aka Cynthia, Roman name Diana|Artemis (aka Cynthia, Roman name Diana)]].md)
+- [[aka Aesculapius, Asklepios)](Asclepius (aka Aesculapius, Asklepios|Asclepius (aka Aesculapius, Asklepios)]].md)
+- [[aka Asterie)](Asteria (aka Asterie|Asteria (aka Asterie)]].md)
+- [[aka Astrea, Astraia)](Astraea (aka Astrea, Astraia|Astraea (aka Astrea, Astraia)]].md)
+- [[aka Astraios)](Astraeus (aka Astraios|Astraeus (aka Astraios)]].md)
+- [[aka Ate, Atë, Aite)](Até (aka Ate, Atë, Aite|Até (aka Ate, Atë, Aite)]].md)
+- [[aka Athene; Roman name Minerva, Menerva)](Athena (aka Athene; Roman name Minerva, Menerva|Athena (aka Athene; Roman name Minerva, Menerva)]].md)
+- [[Atlas.md]]
+- [[aka Aisa; Roman name Morta)](Atropos (aka Aisa; Roman name Morta|Atropos (aka Aisa; Roman name Morta)]].md)
+- [[Aura.md]]
+- [[Bia.md]]
+- [[aka Aquilo, Aquilon)](Boreas(aka Aquilo, Aquilon|Boreas(aka Aquilo, Aquilon)]].md)
+- [[Brizo.md]]
+- [[Caerus.md]]
+- [[Calliope.md]]
+- [[aka Kalypso)](Calypso (aka Kalypso|Calypso (aka Kalypso)]].md)
+- [[aka Castore, Kastor)](Castor (aka Castore, Kastor|Castor (aka Castore, Kastor)]].md)
+- [[Celaeno.md]]
+- [[Cerus.md]]
+- [[aka Keto)](Ceto (aka Keto|Ceto (aka Keto)]].md)
+- [[aka Khaos)](Chaos (aka Khaos|Chaos (aka Khaos)]].md)
+- [[aka Charun)](Charon (aka Charun|Charon (aka Charun)]].md)
+- [[aka Khione)](Chione (aka Khione|Chione (aka Khione)]].md)
+- [[aka Chronus, Khronos)](Chronos (aka Chronus, Khronos|Chronos (aka Chronus, Khronos)]].md)
+- [[aka Kirke)](Circe (aka Kirke|Circe (aka Kirke)]].md)
+- [[aka Clio, Kleio)](Cleo (aka Clio, Kleio|Cleo (aka Clio, Kleio)]].md)
+- [[Roman name Nona)](Clotho (Roman name Nona|Clotho (Roman name Nona)]].md)
+- [[Clymene.md]]
+- [[Crios.md]]
+- [[aka Crios, Kreios, Krios)](Crius (aka Crios, Kreios, Krios|Crius (aka Crios, Kreios, Krios)]].md)
+- [[aka Cronos, Kronos, Roman name Saturn)](Cronus (aka Cronos, Kronos, Roman name Saturn|Cronus (aka Cronos, Kronos, Roman name Saturn)]].md)
+- [[Deimos.md]]
+- [[Delphin.md]]
+- [[Roman name Ceres)](Demeter (Roman name Ceres|Demeter (Roman name Ceres)]].md)
+- [[aka Despoena, Despoine)](Despoina (aka Despoena, Despoine|Despoina (aka Despoena, Despoine)]].md)
+- [[aka Dice)](Dike (aka Dice|Dike (aka Dice)]].md)
+- [[Dinlas.md]]
+- [[Dione.md]]
+- [[Dionysus.md]]
+- [[Doris.md]]
+- [[aka Ilithyia, Roman name Lucina)](Eileithyia (aka Ilithyia, Roman name Lucina|Eileithyia (aka Ilithyia, Roman name Lucina)]].md)
+- [[aka Irene, Roman name Pax)](Eirene (aka Irene, Roman name Pax|Eirene (aka Irene, Roman name Pax)]].md)
+- [[Eireisone.md]]
+- [[aka Elektra)](Electra (aka Elektra|Electra (aka Elektra)]].md)
+- [[aka Alectrona, Electryo)](Electryone (aka Alectrona, Electryo|Electryone (aka Alectrona, Electryo)]].md)
+- [[Roman name Spes)](Elpis (Roman name Spes|Elpis (Roman name Spes)]].md)
+- [[aka Bellona)](Enyo (aka Bellona|Enyo (aka Bellona)]].md)
+- [[Roman name Aurora)](Eos (Roman name Aurora|Eos (Roman name Aurora)]].md)
+- [[Epimetheus.md]]
+- [[Erato.md]]
+- [[aka Erebos)](Erebus (aka Erebos|Erebus (aka Erebos)]].md)
+- [[Roman name Discordia)](Eris (Roman name Discordia|Eris (Roman name Discordia)]].md)
+- [[Roman name Amor, Cupid)](Eros (Roman name Amor, Cupid|Eros (Roman name Amor, Cupid)]].md)
+- [[Eunomia.md]]
+- [[aka Euros; Roman name Vulturnus)](Eurus (aka Euros; Roman name Vulturnus|Eurus (aka Euros; Roman name Vulturnus)]].md)
+- [[Eurynome.md]]
+- [[Euterpe.md]]
+- [[aka Gaea)](Gaia (aka Gaea|Gaia (aka Gaea)]].md)
+- [[Ganymede.md]]
+- [[aka Glaukos)](Glaucus (aka Glaukos|Glaucus (aka Glaukos)]].md)
+- [[Roman name Pluto)](Hades (Roman name Pluto|Hades (Roman name Pluto)]].md)
+- [[Roman name Concordia)](Harmonia (Roman name Concordia|Harmonia (Roman name Concordia)]].md)
+- [[Roman name Juventas)](Hebe (Roman name Juventas|Hebe (Roman name Juventas)]].md)
+- [[aka Hekate, Roman name Trivia)](Hecate (aka Hekate, Roman name Trivia|Hecate (aka Hekate, Roman name Trivia)]].md)
+- [[Roman name Voluptas)](Hedone (Roman name Voluptas|Hedone (Roman name Voluptas)]].md)
+- [[Helios.md]]
+- [[Hemera.md]]
+- [[aka Hephaistos; Roman name Vulcan)](Hephaestus (aka Hephaistos; Roman name Vulcan|Hephaestus (aka Hephaistos; Roman name Vulcan)]].md)
+- [[Roman name Juno)](Hera (Roman name Juno|Hera (Roman name Juno)]].md)
+- [[aka Herakles; Roman name Hercules)](Heracles (aka Herakles; Roman name Hercules|Heracles (aka Herakles; Roman name Hercules)]].md)
+- [[Roman name Mercury)](Hermes (Roman name Mercury|Hermes (Roman name Mercury)]].md)
+- [[Roman name Vesper)](Hesperus (Roman name Vesper|Hesperus (Roman name Vesper)]].md)
+- [[Roman name Vesta)](Hestia (Roman name Vesta|Hestia (Roman name Vesta)]].md)
+- [[aka Hygiea)](Hygieia (aka Hygiea|Hygieia (aka Hygiea)]].md)
+- [[aka Hymen, Hymenaeus)](Hymenaios (aka Hymen, Hymenaeus|Hymenaios (aka Hymen, Hymenaeus)]].md)
+- [[Hyperion.md]]
+- [[Hypnos.md]]
+- [[Iris.md]]
+- [[aka Cotys)](Kotys (aka Cotys|Kotys (aka Cotys)]].md)
+- [[aka Cratos)](Kratos (aka Cratos|Kratos (aka Cratos)]].md)
+- [[Lacheses.md]]
+- [[aka Leso)](Laso (aka Leso|Laso (aka Leso)]].md)
+- [[aka Lytta)](Lyssa (aka Lytta|Lyssa (aka Lytta)]].md)
+- [[Maia.md]]
+- [[aka Maniae, Maniai)](Mania (aka Maniae, Maniai|Mania (aka Maniae, Maniai)]].md)
+- [[Melpomene.md]]
+- [[Merope.md]]
+- [[Metis.md]]
+- [[aka Momos)](Momus (aka Momos|Momus (aka Momos)]].md)
+- [[Morpheus.md]]
+- [[Nemesis.md]]
+- [[Nereus.md]]
+- [[Roman name Victoria)](Nike (Roman name Victoria|Nike (Roman name Victoria)]].md)
+- [[aka Notos)](Notus (aka Notos|Notus (aka Notos)]].md)
+- [[Roman name Nox)](Nyx (Roman name Nox|Nyx (Roman name Nox)]].md)
+- [[Oceanus.md]]
+- [[Pallas.md]]
+- [[Roman name Faunus)](Pan (Roman name Faunus|Pan (Roman name Faunus)]].md)
+- [[aka Panakeia)](Panacea (aka Panakeia|Panacea (aka Panakeia)]].md)
+- [[aka Peitha)](Peitho (aka Peitha|Peitho (aka Peitha)]].md)
+- [[Roman name Proserpina)](Persephone (Roman name Proserpina|Persephone (Roman name Proserpina)]].md)
+- [[Roman name Fama)](Pheme (Roman name Fama|Pheme (Roman name Fama)]].md)
+- [[aka Phosphor, Latin name Lucifer)](Phosphorus (aka Phosphor, Latin name Lucifer|Phosphorus (aka Phosphor, Latin name Lucifer)]].md)
+- [[aka Ploutos)](Plutus (aka Ploutos|Plutus (aka Ploutos)]].md)
+- [[aka Polydeuces)](Pollux (aka Polydeuces|Pollux (aka Polydeuces)]].md)
+- [[aka Polymnia)](Polyhymnia (aka Polymnia|Polyhymnia (aka Polymnia)]].md)
+- [[aka Pontos)](Pontus (aka Pontos|Pontus (aka Pontos)]].md)
+- [[Roman name Neptune)](Poseidon (Roman name Neptune|Poseidon (Roman name Neptune)]].md)
+- [[aka Priapos)](Priapus (aka Priapos|Priapus (aka Priapos)]].md)
+- [[Pricus.md]]
+- [[Prometheus.md]]
+- [[Proteus.md]]
+- [[aka Cybele)](Rhea (aka Cybele|Rhea (aka Cybele)]].md)
+- [[Roman name Luna)](Selene (Roman name Luna|Selene (Roman name Luna)]].md)
+- [[aka Asterope)](Sterope (aka Asterope|Sterope (aka Asterope)]].md)
+- [[Styx.md]]
+- [[Tartarus.md]]
+- [[Taygete.md]]
+- [[Terpsichore.md]]
+- [[Thalassa.md]]
+- [[Thalia.md]]
+- [[Roman name Mors)](Thanatos (Roman name Mors|Thanatos (Roman name Mors)]].md)
+- [[Themis.md]]
+- [[Thetis.md]]
+- [[Triton.md]]
+- [[Roman name Fortuna)](Tech (Roman name Fortuna|Tech (Roman name Fortuna)]].md)
+- [[aka Typhaon, Typhoeus, Typhos) - God of monsters who battled for control of Mount Olympus.](Typhon (aka Typhaon, Typhoeus, Typhos|Typhon (aka Typhaon, Typhoeus, Typhos) - God of monsters who battled for control of Mount Olympus.]]%20-%20God%20of%20monsters%20who%20battled%20for%20control%20of%20Mount%20Olympus..md)
+- [[Urania.md]]
+- [[Uranus.md]]
+- [[aka Zelos)](Zelus (aka Zelos|Zelus (aka Zelos)]].md)
+- [[aka Zephyros, Zephyr; Roman name Favonius)](Zephyrus (aka Zephyros, Zephyr; Roman name Favonius|Zephyrus (aka Zephyros, Zephyr; Roman name Favonius)]].md)
+- [[Zeus.md]]

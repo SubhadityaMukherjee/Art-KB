@@ -4,4 +4,4 @@ tags: greek deity
 ---
 
 # Cronus (aka Cronos, Kronos, Roman name Saturn) 
-- Father of [Hestia](Hestia.md), Demeter, [Hera](Hera.md), Hades, Poseidon, and [Zeus](Zeus.md).
+- Father of [[Hestia.md|Hestia]], Demeter, [[Hera.md]], Hades, Poseidon, and [[Zeus.md]].
