@@ -7,5 +7,6 @@
   "newFileFolderPath": "docs",
   "fileSortOrder": "alphabetical",
   "vimMode": true,
-  "communityPluginSortOrder": "release"
+  "communityPluginSortOrder": "release",
+  "newLinkFormat": "relative"
 }

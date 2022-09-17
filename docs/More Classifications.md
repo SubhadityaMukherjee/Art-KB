@@ -5,9 +5,9 @@ tags: botany
 ---
 
 # More Classifications
-- [[Trees]]
-- [[Shrub]]
-- [[Vine]]
-- [[Herb]]
-- [[Grass]]
-- [[Aquatic]]
+- [Trees](Trees.md)
+- [Shrub](Shrub.md)
+- [Vine](Vine.md)
+- [Herb](Herb.md)
+- [Grass](Grass.md)
+- [Aquatic](Aquatic.md)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Botany.md",
+            "file": "journal/2022-09-17.md",
             "mode": "source",
             "source": false
           }
@@ -77,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Botany.md",
+                "file": "journal/2022-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Botany.md",
+                "file": "journal/2022-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,12 +117,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Botany.md"
+                "file": "journal/2022-09-17.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,15 +129,15 @@
   },
   "active": "677468be70fe3c81",
   "lastOpenFiles": [
-    "docs/Untitled.md",
-    "docs/Yan Wang.md",
-    "docs/Thetis.md",
-    "docs/Thanatos (Roman name Mors).md",
-    "docs/Thalassa.md",
-    "docs/Tang Sanzang.md",
-    "docs/Tai Yi Zhen Ren.md",
-    "docs/Tai Shang Lao Jun.md",
-    "docs/Proteus.md",
-    "docs/Pan (Roman name Faunus).md"
+    "docs/Re-Enactment by Francis Alÿs.md",
+    "docs/Chaos (aka Khaos).md",
+    "docs/Deimos.md",
+    "docs/Anteros.md",
+    "docs/Doris.md",
+    "docs/Fu Lu Shou.md",
+    "docs/Compound Leaf Variations.md",
+    "docs/Peitho (aka Peitha).md",
+    "docs/Nuwa & Fuxi.md",
+    "docs/A Monstrous Beauty.md"
   ]
 }

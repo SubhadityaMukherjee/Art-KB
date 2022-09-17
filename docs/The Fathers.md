@@ -1,0 +1,8 @@
+---
+title: docs/The Fathers
+tags: performanceart
+---
+
+# The Fathers
+- is a conceptual and performative work of critical and biographical content by artist Abel Azcona. The Fathers was first performed in 2016 in Madrid with the final performance, also in Madrid, in 2017 in an exhibition format. The durational piece included dozens of female survivors of prostitution who gave a physical description of their last client. On the other side of a ten-meter-long table, composite artists listened to them and drew images of the clients. The performance generated dozens of portraits which, at the closing of the work in 2017, were exhibited with the premise that any of them could be Azcona's father. The biographical work creates a critical discourse with prostitution and its inheritance, and in the case of Azcona himself, of an unknown father, having been conceived during an act of prostitution.
+- Abel Azcona, the son of a prostituted woman who is looking for his whoremonger father, because it perfectly summarizes everything that the patriarchy has built on their subordination and for our autonomy. Abel represents the aching son of an unknown father. All of us are those men who walk on their backs. To those who do not see their faces until the end. Those parents who sign unwritten covenants and who leave their semen springs across the planet. Those who rent vaginas, wombs, and maids. It is urgent to face those who prefer to remain installed in comfort. Only in this way will it be possible to turn our face towards the camera, without fear of being recognized in a robot portrait of a whoremonger father. Without fear of the mirror returning the image of a monster.

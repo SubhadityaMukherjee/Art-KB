@@ -1,4 +1,4 @@
 # Art Research
 ## Links
-- [[Deities]]
+- [Deities](Deities.md)
 - [Botany](Botany.md)

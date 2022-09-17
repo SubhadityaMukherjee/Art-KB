@@ -12,5 +12,7 @@
   "obisidian-note-linker",
   "obsidian-file-cleaner",
   "vantage-obsidian",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-link-converter",
+  "obsidian-linter"
 ]

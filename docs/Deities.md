@@ -5,5 +5,5 @@ tags: deity
 ---
 
 # Deities
-- [[Greek Deities]]
-- [[Chinese Deities]]
+- [Greek Deities](Greek%20Deities.md)
+- [Chinese Deities](Chinese%20Deities.md)
