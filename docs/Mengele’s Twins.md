@@ -1,0 +1,9 @@
+---
+title: docs/Mengele’s Twins
+tags: humanexperiments
+---
+
+# Mengele’s Twins
+- A world at war gave the Nazi regime the ideal cover under which they would carry out some of the most horrific human experiments imaginable. At Auschwitz concentration camp, Dr Josef Mengele made full use of the tens of thousands of prisoners available to him. He would carry out unnecessarily cruel and unusual experiments, often with little or no scientific merit. And, above all, he was fascinated with twins. Or, more precisely, with identical twins. These would be the subjects of his most gruesome experiments.
+- Mengele would personally select prospective subjects from the ramps leading off the transport trains at the entrance to the concentration camp. Initially, his chosen twins were provided with relatively comfortable accommodation, as well as more generous rations than the rest of the inmate population. However, this was just a temporary respite. Mengele’s experiments were as varied as they were horrific. He would amputate one twin’s limbs and then compare the growth of both over the following days. Or he would infect one twin with a disease like typhoid. When they died, he would kill the healthy twin, too, and then compare their bodies.
+- Gruesomely, the records show that on one particularly bloody night, Mengele injected chloroform directly into the heart of 14 sets of twins. All died almost immediately. Another infamous tale tells of Mengele trying to create his own conjoined twins: he simply stitched two young Romani children back-to-back. They both died of gangrene after several long and painful days. Mengele also had a team of assistants working for him, and they were no less cruel.

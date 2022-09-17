@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
 
-tags: performanceart
+tags: humanexperiments
 ---
 
 # <% tp.file.title %>
