@@ -1,6 +1,6 @@
 #!/bin/bash
 #python3 backlink_reset.py
-#python3 create_tag_pages.py
+python3 create_tag_pages.py
 #node docs/grapher.js
 #/home/erago/.yarn/bin/note-link-janitor docs/
 #/home/erago/.yarn/bin/note-link-janitor docs/architectures/

@@ -109,4 +109,6 @@ tags: deity
 - [[Duo Wen Tian Wang.md]]
 - [[Wei Tuo.md]]
 - [[Wen Shu.md]]
-- [[Yao Shi Fo.md|[Yao Shi Fo.md|[Yao Shi Fo]]
+- [[docs/Yao Shi Fo]]
+- [[docs/Yang Jian]]
+- [[docs/Zhou Wu Wang]]
