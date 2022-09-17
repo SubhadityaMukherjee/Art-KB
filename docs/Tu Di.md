@@ -4,7 +4,7 @@ tags: chinese deity
 ---
 
 # Tu Di 
-- Tu Di is not one god but the generic title for a whole host of earth spirits/guardians. They are invariably depicted as small-sized elderly men too. In _Journey to the West_, [[Sun Wukong.md]] always summons the local Tu Di upon reaching an unfamiliar place.
+- Tu Di is not one god but the generic title for a whole host of earth spirits/guardians. They are invariably depicted as small-sized elderly men too. In _Journey to the West_, [Sun Wukong](Sun%20Wukong.md.md) always summons the local Tu Di upon reaching an unfamiliar place.
 1# Wen Chang 
 - The Chinese God of Culture, Literature, and Learning.
 1# Yue Lao 

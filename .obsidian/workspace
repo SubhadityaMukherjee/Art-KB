@@ -7,8 +7,12 @@
         "id": "677468be70fe3c81",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "journal/2022-09-17.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journal/2022-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journal/2022-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,11 +116,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "journal/2022-09-17.md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,15 +129,15 @@
   },
   "active": "677468be70fe3c81",
   "lastOpenFiles": [
+    "docs/P'an Ku.md",
     "journal/2022-09-17.md",
-    "docs/Acid.md",
-    "docs/Botany.md",
-    "docs/Greek Deities.md",
+    "docs/Cell.md",
+    "docs/Ao Guang.md",
+    "docs/Tu Di.md",
+    "docs/Heracles (aka Herakles; Roman name Hercules).md",
+    "docs/Yang Jian.md",
     "templates/titler.md",
-    "docs/Hestia (Roman name Vesta).md",
-    "docs/Hestia.md",
-    "docs/Artemis.md",
-    "docs/Aphrodite.md",
-    "docs/Penelope.md"
+    "docs/Ceto (aka Keto).md",
+    "docs/Yu Huang Da Di.md"
   ]
 }

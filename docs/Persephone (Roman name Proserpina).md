@@ -1,7 +1,7 @@
 ---
-title: docs/[[[[Persephone.md]].md|[Persephone.md|[[[Persephone]]]([[[[Persephone.md]].md|[Persephone.md|[Persephone]].md)]([[[[Persephone.md]].md|[Persephone.md|[[Persephone]]]([[[[Persephone.md]].md|[Persephone.md|[Persephone]].md).md) (Roman name Proserpina)
+title: docs/[[[Persephone.md](%5B%5BPersephone.md).md|[Persephone.md|[[Persephone](%5BPersephone)]([[[Persephone.md](%5B%5BPersephone.md).md|[Persephone.md|[Persephone]].md)]([[[Persephone.md](%5B%5BPersephone.md).md|[Persephone.md|[Persephone](Persephone.md)]([[[Persephone.md](%5B%5BPersephone.md).md|[Persephone.md|[Persephone]].md).md) (Roman name Proserpina)
 tags: greek deity
 ---
 
-# [[Persephone.md]] (Roman name Proserpina) 
+# [Persephone](Persephone.md.md) (Roman name Proserpina) 
 - Wife of Hades. Queen of the Underworld. Goddess of Spring.

@@ -15,7 +15,7 @@ tags: temp
 - All the information here is from the internet. Therefore I hold no claims of truth or validity. 
 
 ## Major Topics
-- [[docs/deity]]
-- [[docs/Botany]]
-- [[docs/performanceart]]
-- [[docs/humanexperiments]]
+- [deity](docs/deity.md)
+- [Botany](docs/Botany.md)
+- [performanceart](docs/performanceart.md)
+- [humanexperiments](docs/humanexperiments.md)

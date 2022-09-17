@@ -1,2 +1,2 @@
-# [[Chloe.md]]
+# [Chloe](Chloe.md.md)
 - In Greek, Chloe means “blooming” or “fertility.” In fact, its literal translation represents shoots of foliage in spring. And it’s little wonder — Demeter, the Greek goddess of agriculture and the harvest, is sometimes referred to by this epithet.

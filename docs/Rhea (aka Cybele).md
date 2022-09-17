@@ -4,4 +4,4 @@ tags: greek deity
 ---
 
 # Rhea (aka Cybele) 
-- Titan wife of Cronus. She had six children including [[Hestia.md|Hestia]], Hades, Demeter, Poseidon, [[Hera.md]] and [[Zeus.md]].
+- Titan wife of Cronus. She had six children including [Hestia](Hestia.md), Hades, Demeter, Poseidon, [Hera](Hera.md.md) and [Zeus](Zeus.md.md).
