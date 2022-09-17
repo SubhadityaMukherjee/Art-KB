@@ -7,12 +7,8 @@
         "id": "677468be70fe3c81",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/Performance Art.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impriso",
+                "query": "hestia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Performance Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Performance Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Performance Art.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -128,17 +120,17 @@
     "direction": "horizontal",
     "width": 191.5
   },
-  "active": "2e3fd0e15cf61123",
+  "active": "677468be70fe3c81",
   "lastOpenFiles": [
-    "journal/2022-09-17.md",
-    "docs/Chang'e.md",
-    "docs/Chinese Deities.md",
-    "docs/Queen Mother of the West.md",
-    "docs/Yao Shi Fo.md",
-    "docs/Tong Tian Jiao Zhu.md",
-    "docs/Sha Wujing.md",
-    "docs/Nereus.md",
-    "docs/Laso (aka Leso).md",
-    "docs/Mysterious Memories.md"
+    "docs/Greek Deities.md",
+    "templates/titler.md",
+    "docs/Hestia (Roman name Vesta).md",
+    "docs/Hestia.md",
+    "docs/Artemis.md",
+    "docs/Aphrodite.md",
+    "docs/Penelope.md",
+    "docs/Persephone.md",
+    "docs/Phoebe.md",
+    "docs/chinese.md"
   ]
 }

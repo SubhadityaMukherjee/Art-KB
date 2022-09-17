@@ -1,12 +1,48 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#greek",
+      "color": {
+        "a": 1,
+        "rgb": 8999506
+      }
+    },
+    {
+      "query": "tag:#chinese",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#botany",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#humanexperiments",
+      "color": {
+        "a": 1,
+        "rgb": 7407912
+      }
+    },
+    {
+      "query": "tag:#performanceart",
+      "color": {
+        "a": 1,
+        "rgb": 3179111
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -14,9 +50,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 13.9636752136752,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5397229769504343,
+  "scale": 0.1861135397404486,
   "close": false
 }

@@ -1,3 +1,11 @@
+---
+title: index
+
+tags: temp
+---
+
+# Index
+
 # Art Research
 - Most of the articles here are about other things. Gods, stories, folklore, performances. Anything I find relevant.
 - In time there might be random things that I find worth noting down.
@@ -7,7 +15,7 @@
 - All the information here is from the internet. Therefore I hold no claims of truth or validity. 
 
 ## Major Topics
-- [[Deities.md]]
-- [[Botany.md]]
-- [[Performance Art]]
-- [[Human Experiments]]
+- [[docs/deity]]
+- [[docs/Botany]]
+- [[docs/performanceart]]
+- [[docs/humanexperiments]]

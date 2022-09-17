@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
 
-tags: humanexperiments
+tags: greek deity 
 ---
 
 # <% tp.file.title %>
