@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
 
-tags: greek deity 
+tags: folklore chinese
 ---
 
 # <% tp.file.title %>

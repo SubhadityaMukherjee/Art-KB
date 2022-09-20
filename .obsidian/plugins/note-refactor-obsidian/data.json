@@ -7,5 +7,5 @@
   "fileNamePrefix": "docs/",
   "transcludeByDefault": false,
   "noteLinkTemplate": "- {{new_note_link}}",
-  "refactoredNoteTemplate": "---\ntitle: {{new_note_title}}\ntags: botany\n---\n\n{{new_note_content}}"
+  "refactoredNoteTemplate": "---\ntitle: {{new_note_title}}\ntags: folklore irish\n---\n\n{{new_note_content}}"
 }
