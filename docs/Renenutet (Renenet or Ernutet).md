@@ -1,0 +1,7 @@
+---
+title: docs/Renenutet (Renenet or Ernutet)
+tags: deity egyptian
+---
+
+# Renenutet (Renenet or Ernutet)
+- A very important goddess depicted as a cobra or a rearing cobra with the head of a woman. Her name means "Snake Who Nourishes" and she was goddess of nursing and rearing children. In time, she became closely associated with Meskhenet, goddess of childbirth and destiny, and even superceded her to determine the length of a person's life and significant events which would befall them. Along with Meskhenet, she was also associated with Neith and sometimes portrayed as the mother of Osiris, with Isis as the wife of Osiris and mother of Horus, as Atum's wife or consort. In the afterlife she appeared as the "Lady of Justification" linking her with the goddess Ma'at. She was thought to protect the clothing worn by the king in the afterlife and so was also known as "Lady of the Robes". In this capacity, she appeared as a fire-breathing cobra who drove away the enemies of the king. She was also a grain goddess known as "Lady of the Fertile Fields" and "Lady of the Granaries" who protected the harvest and was the mother of Nepri, god of grain. As a fertility goddess, she was further linked to the Nile River and the inundation and so with Hapi, the god of the fertile mud of the Nile.

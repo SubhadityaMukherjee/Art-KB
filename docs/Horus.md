@@ -1,0 +1,7 @@
+---
+title: docs/Horus
+tags: deity egyptian
+---
+
+# Horus
+- An early avian god who became one of the most important deities in ancient Egypt. Associated with the sun, sky, and power, Horus became linked with the king of Egypt as early as the First Dynasty (c. 3150-2890 BCE). Although the name 'Horus' might refer to a number of avian deities it principally designates two: Horus the Elder, one of the first five gods born at the beginning of creation, and Horus the Younger who was the son of Osiris and Isis. Following the rise in popularity of the Osiris Myth, Horus the Younger became one of the most important gods in Egypt. In the story, after Osiris is murdered by his brother Set, Horus is raised by his mother in the Delta swamps. When he comes of age he battles his uncle for the kingdom and wins, restoring order to the land. The kings of Egypt, with some exceptions, all linked themselves with Horus in life and with Osiris in death. The king was thought to be the living incarnation of Horus and, through him, the god gave all good things to his people. He is usually depicted as a man with the head of a hawk but is represented by many different images. His symbols are the Eye of Horus and the hawk.

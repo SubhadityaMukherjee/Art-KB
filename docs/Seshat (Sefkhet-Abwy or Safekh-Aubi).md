@@ -1,0 +1,7 @@
+---
+title: docs/Seshat (Sefkhet-Abwy or Safekh-Aubi)
+tags: deity egyptian
+---
+
+# Seshat (Sefkhet-Abwy or Safekh-Aubi)
+- She was the goddess of writing, books, notations, and measurements. Her name means "The Female Scribe" and she was the consort of Thoth, god of wisdom and writing (though sometimes she is depicted as his daughter). She is the patroness of libraries, both public and private, and was known as "She Who is Foremost in the House of Books". She was also the patron goddess of scribes. As goddess of measurements she ensured the king measured correctly in commissioning the building of temples and monuments and assisted him in measurements for rituals. She is first mentioned in the Second Dynasty (c. 2890-2670 BCE) as helping king Khasekemwy in this regard. Her association with measurements eventually made her the patroness of builders, architects, and those who dealt in accounting for cattle, other animals, and captives seized in war. Although she never had a temple of her own, as R.H. Wilkinson observes, "by virtue of her role in the foundation ceremony she was a part of every temple building" (167). She is depicted as a woman wearing a leopard skin over a robe with a headband holding a stick with a star on top. She holds a writing implement in her right hand and the notched palm stalk representing the years' passage in her left.

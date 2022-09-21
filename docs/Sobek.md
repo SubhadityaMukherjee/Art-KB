@@ -1,0 +1,7 @@
+---
+title: docs/Sobek
+tags: deity egyptian
+---
+
+# Sobek
+- An important protective deity in the form of a crocodile or a man with a crocodile's head, Sobek was a god of water but also associated with medicine and particularly surgery. His name means "Crocodile" and he was lord of marshes and wetlands and any other wet areas of Egypt. In the Pyramid Texts he is claimed to be the son of Neith and was worshipped widely from the Old Kingdom (c. 2613-2181 BCE) onwards. As god of wetlands he was associated with fertility and procreation but, as the crocodile god, also with unexpected death. He was said to separate wives from their husbands at a whim. Sobek lived on a mythical mountain at the horizon which he ruled from and so was linked to the authority of the king as he, himself, was lord of a domain. This link with the horizon associated him with Ra and led to the form of Ra known as Sobek-Ra. Sobek is one of the best known gods of ancient Egypt and was extremely popular in his time. His priests kept live crocodiles in the temples who were fed lavishly on the best cuts of meat and treated better than many human beings of the time. When these crocodiles died they were mummified and buried with all the care given to a person. He was also associated with the Nile which was said to issue forth as the sweat of Sobek.

@@ -1,0 +1,7 @@
+---
+title: docs/Hathor
+tags: deity egyptian
+---
+
+# Hathor
+- One of the best known, most popular, and most important deities of ancient Egypt. She was the daughter of Ra and, in some stories, wife of Horus the Elder. A very ancient goddess, she was sent by Ra to destroy humanity for their sins. The other gods implored Ra to stop her destruction before no humans were left to benefit from the lesson. Ra then had a vat of Beer dyed red, to resemble blood, and placed at Dendera which Hathor, in her blood lust, drank. She fell asleep and woke as the benevolent goddess who was a friend to all. She was the patron goddess of joy, inspiration, celebration, love, women, women's health, childbirth, and drunkenness. One of her names is "The Lady of Drunkenness". She was thought to live in sycamore trees and so was also known as 'The Lady of the Sycamore." In the afterlife she helped guide the souls of the dead toward paradise and was one of the deities aboard the sun barge of Ra who defended it from Apep. She is further associated with gratitude and a thankful heart. The Greeks associated her with Aphrodite. She is depicted as a cow or a woman with a cow's head and evolved from the earlier goddess Bat. Her characteristics were later largely absorbed by Isis.

@@ -8,13 +8,6 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#folklore",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
       "query": "tag:#greek",
       "color": {
         "a": 1,
@@ -26,6 +19,27 @@
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#indian",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#philippine",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#folklore",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     },
     {
@@ -60,6 +74,6 @@
   "repelStrength": 13.9636752136752,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13412812837608512,
+  "scale": 0.09801609668389664,
   "close": false
 }

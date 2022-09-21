@@ -1,0 +1,7 @@
+---
+title: docs/Thoth
+tags: deity egyptian
+---
+
+# Thoth
+- God of writing and wisdom, truth and integrity, one of the most important deities in the Egyptian pantheon worshipped from the Predynastic Period (c. 6000-3150 BCE) on to the Ptolemaic Dynasty (323-30 BCE), the last to rule Egypt. He was probably originally a lunar god, son of Atum (Ra) but later texts represent him as the son of Horus. Thoth is depicted in some texts as a baboon but mostly as a man with the head of an ibis holding a writing implement. He is credited with inventing writing and was the record-keeper of the gods. He was known as "Lord of Time" and "Reckoner of Years" because he marked the passage of time and, through the powerful magic of his divine knowledge of words, gave the king a long reign so he could maintain order on earth. He was the patron god of libraries and of scribes. In every story told of him, Thoth is the divine friend and benefactor of humanity who gave people understanding through the gift of the written word. He appears in one story as gambling for the five days required for Nut to give birth to the First Five Gods and in others as mediating between the gods and delivering messages. In the afterlife he stands with Osiris and keeps records in the Hall of Truth at the ritual of the Weighing of the Heart. His consort was Seshat, his daughter or his wife, who was his female counterpart and also patron deity of libraries and books.
