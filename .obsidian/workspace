@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-09-20.md",
+            "file": "journal/2022-09-21.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-09-20.md",
+                "file": "journal/2022-09-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-09-20.md",
+                "file": "journal/2022-09-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-09-20.md"
+                "file": "journal/2022-09-21.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "19f591e787cf9d95",
   "lastOpenFiles": [
-    "docs/The Cailleach.md",
-    "docs/The Bodach.md",
-    "docs/Aibell.md",
-    "docs/The Pooka.md",
-    "docs/The Fairy Queen.md",
-    "docs/Glas Gaibhnenn.md",
-    "docs/Gancanag.md",
-    "docs/Donn Cúailnge.md",
-    "docs/Si Xiong.md",
-    "docs/Tianlong Babu (天龙八部).md"
+    "templates/titler.md",
+    "journal/2022-09-21.md",
+    "journal/2022-09-20.md",
+    "docs/Pegasus.md",
+    "docs/Al-mi’raj.md",
+    "docs/folklore.md",
+    "docs/Doppelganger.md",
+    "docs/Loup GarouRougarou.md",
+    "docs/Caucasian Eagle.md",
+    "docs/Harpies.md"
   ]
 }
