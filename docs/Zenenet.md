@@ -4,4 +4,4 @@ tags: deity egyptian
 ---
 
 # Zenenet
-- Another name for Isis in the city of Hermonthis (modern-day Armant) near Thebes.
+- Another name for [Isis](Isis.md) in the city of Hermonthis (modern-day Armant) near Thebes.

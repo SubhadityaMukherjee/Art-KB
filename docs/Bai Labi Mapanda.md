@@ -4,4 +4,4 @@ tags: deity philippine
 ---
 
 # Bai Labi Mapanda
-- the fairest lady of Mantapuli who is married to Skander
+- the fairest lady of Mantapuli who is married to [Skander](Skander.md)

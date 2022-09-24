@@ -10,4 +10,4 @@ tags: folklore greek
 - Some accounts, however, suggest that centaurs were born from the unity of Magnesian mares and Centaurus (a single centaur considered to be the father of all centaurs).
 - The most significant centaur mentioned in the myths is Chiron who was known to be a mentor to some important characters in Greek mythology like Achilles and Aesculapius.
 - Despite being immortal, Chiron, accidentally shot by one of Heracles’ arrows (on which Heracles applied the blood of the Hydra) fell into great agony.
-- Later, when Heracles asked Zeus to let Prometheus free and Zeus asked for a sacrifice, Chiron volunteered and died to free Prometheus and end his own suffering.
+- Later, when Heracles asked [Zeus](Zeus.md) to let Prometheus free and [Zeus](Zeus.md) asked for a sacrifice, Chiron volunteered and died to free Prometheus and end his own suffering.
