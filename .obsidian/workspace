@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Guanyin.md",
+            "file": "journal/2022-09-24.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Guanyin.md",
+                "file": "journal/2022-09-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Guanyin.md",
+                "file": "journal/2022-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Guanyin.md"
+                "file": "journal/2022-09-24.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "19f591e787cf9d95",
   "lastOpenFiles": [
+    "docs/Aggirigira.md",
+    "docs/Guanyin.md",
+    "docs/Guru.md",
+    "docs/Yubu.md",
+    "journal/2022-09-24.md",
     "docs/Themyscira.md",
     "docs/Zeus.md",
     "docs/Son of Chal-chal.md",
     "docs/Xiqu (犀渠).md",
-    "docs/Cereal.md",
-    "journal/2022-09-21.md",
-    "docs/Triads.md",
-    "docs/Qebehsenuef.md",
-    "docs/Baihu (白虎).md",
-    "docs/Cerus.md"
+    "docs/Cereal.md"
   ]
 }
