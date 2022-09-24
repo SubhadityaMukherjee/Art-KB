@@ -4,4 +4,4 @@ tags: deity philippine
 ---
 
 # Orak
-- wife of Lapindig, killed herself after Odang's death
+- wife of [Lapindig](Lapindig.md), killed herself after Odang's death

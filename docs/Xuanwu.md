@@ -1,0 +1,9 @@
+---
+title: docs/Xuanwu
+tags: chinese deity 
+---
+
+# Xuanwu
+- Taoist legend has it that Xuanwu was the prince of a Chinese ruler but was not interested in taking the throne, opting instead to leave his parents at age 16 and study Taoism. According to the legend, he eventually achieved divine status and was worshiped as a deity of the northern sky.
+- Other Chinese legends also speak of how the "Tortoise General" and a "Snake General" came to be. During Xuanwu's study to achieve enlightenment and divine status, he was told that, in order to fully achieve divinity, he must purge all human flesh from his body. Since he had always eaten the food of the world, despite all his efforts, his stomach and intestines were still human. A god then came and changed his organs with divine ones. Once removed, the original stomach and intestines were said to have become a tortoise and a snake, respectively. The tortoise and snake became demons and terrorized people. Now divine, Xuanwu heard of this and returned to slay the monsters he had unleashed on the countryside. However, as the snake and tortoise showed remorse, he did not kill them but instead let them train under him to atone for their wrongdoings. They then became the Tortoise and Snake generals and assisted Xuanwu with his quests (another legend held that the mortal organs were tossed out to become Wuhan's Tortoise and Snake mountains).
+- According to another source, once Xuanwu had begun his study of the Way, he discovered that he must purge himself of all of his past sins to become a god. He learned to achieve this by washing his stomach and intestines in the river. Washing his internal organs, his sins dissolved into the water in a dark, black form. These then formed into a black tortoise and a snake who terrorized the country. Once Xuanwu learned of this, he returned to subdue them as in the other story.

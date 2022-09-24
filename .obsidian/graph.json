@@ -36,6 +36,13 @@
       }
     },
     {
+      "query": "tag:#egyptian",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
       "query": "tag:#folklore",
       "color": {
         "a": 1,
@@ -74,6 +81,6 @@
   "repelStrength": 13.9636752136752,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09801609668389664,
+  "scale": 0.07861998416162966,
   "close": false
 }

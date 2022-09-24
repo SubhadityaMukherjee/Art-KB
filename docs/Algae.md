@@ -4,4 +4,4 @@ tags: botany
 ---
 
 # Algae
-- A large group of primitive plants, mostly aquatic and capable of photosynthesis.
+- A large group of primitive plants, mostly [aquatic](Aquatic.md) and capable of photosynthesis.

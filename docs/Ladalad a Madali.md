@@ -4,7 +4,7 @@ tags: deity philippine
 ---
 
 # Ladalad a Madali
-- son of Magondaya’ Boisan
+- son of [Magondaya’ Boisan](Magondaya’%20Boisan.md)
 - went into a journey to rescue his cousin Bantugen, and all those who first came to find Bantugen
 - can become invisible with the aided of his guardian spirits
 - aided by his grandfather's guardian spirit Pinatoli i Kilid who clashed with the Walain Pirimbangan's guardian spirit

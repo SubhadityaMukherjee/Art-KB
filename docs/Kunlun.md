@@ -1,0 +1,7 @@
+---
+title: docs/Kunlun
+tags: chinese folklore 
+---
+
+# Kunlun
+- In the west was Kunlun (although also sometimes said to be towards the south seas). Kunlun was pictured as having a mountain or mountain range, Kunlun Mountain where dwelt various divinities, grew fabulous plants, home to exotic animals, and various deities and immortals (today there is a real mountain or range named Kunlun, as there has in the past, however the identity has shifted further west over time). The Qing Niao bird was a mythical bird, and messenger of Xi Wangmu to the rest of the world. Nearby to Kunlun, it was sometimes said or written and forming a sort of protective barrier to the western paradise or "fairyland" named Xuánpǔ (玄圃) where also was to be found the jade pool Yáochí (瑤池), eventually thought to exist on mount Kunlun (which itself was thought to possess cliffs insurmountable to normal mortals was the Moving Sands, a semi-mythological place also to the west of China (the real Taklamakan Desert to the west of or in China is known for its shifting sands). There were other locations of mythological geography around the area of Kunlun such as Jade Mountain and the various colored rivers which flew out of Kunlun. For example, the Red, or Scarlet River was supposed to flow to the south of Kunlun.

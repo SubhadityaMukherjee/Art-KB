@@ -1,0 +1,7 @@
+---
+title: docs/Xia dynasty
+tags: chinese dynasty
+---
+
+# Xia dynasty
+- The Xia dynasty is a real, historical dynasty known through archeology and literary accounts. However, many of these accounts contain elements of a clearly semi-mythological, and in some versions completely mythological or fanciful. The founding mythology of the early dynasties tends to have certain common general features, including the divine assistance obtained in the founding and the reasons for it. The fighter of the Great Flood, Yu "the Great" had served Yao and Shun and they enfeoffed him as the Prince of Xia, an area of land. Upon Yu's death questions arose regarding the method of imperial succession, which would be a key factor as an example for Chinese culture for millennia. The question was who would succeed Yu upon his death. It could be his son, Qi of Xia, also known as Kai, or the deputy that competently and diligently helped in the work against the great flood, a mighty hunter who helped feed the people during a time when agriculture had been rendered impossible, Bo Yi. The mythological variants are much concerned with the relative merits between the two. Qi's succession broke the previous convention of meritorious succession in favor of hereditary succession, thus initiating a dynastic tradition. The new dynasty was called "Xia" after Yu's centre of power.
