@@ -4,5 +4,5 @@ tags: deity philippine
 ---
 
 # Ofag
-- cousin of Nanolay
+- cousin of [Nanolay](Nanolay.md)
 - personification of evil

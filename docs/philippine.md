@@ -18,8 +18,6 @@ ___
 - [Anak.md](Anak.md)
 - [Angako D Ngato.md](Angako%20D%20Ngato.md)
 - [Angtan.md](Angtan.md)
-- [Anito.md](Anito.md)
-- [Anitu.md](Anitu.md)
 - [Anlabban.md](Anlabban.md)
 - [Añitu Between Chavidug and Chavayan.md](Añitu%20Between%20Chavidug%20and%20Chavayan.md)
 - [Añitu.md](Añitu.md)

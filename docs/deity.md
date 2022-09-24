@@ -49,8 +49,6 @@ ___
 - [Angelos (aka Angelia).md](Angelos%20(aka%20Angelia).md)
 - [Angtan.md](Angtan.md)
 - [Anhur (Han_Dynasty-her).md](Anhur%20(Han_Dynasty-her).md)
-- [Anito.md](Anito.md)
-- [Anitu.md](Anitu.md)
 - [Anlabban.md](Anlabban.md)
 - [Anqet (Anukit or Anuket).md](Anqet%20(Anukit%20or%20Anuket).md)
 - [Anta.md](Anta.md)

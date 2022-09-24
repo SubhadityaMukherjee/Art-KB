@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-09-24.md",
+            "file": "docs/The Leprechaun.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-09-24.md",
+                "file": "docs/The Leprechaun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-09-24.md",
+                "file": "docs/The Leprechaun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,12 +117,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-09-24.md"
+                "file": "docs/The Leprechaun.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,15 +129,15 @@
   },
   "active": "19f591e787cf9d95",
   "lastOpenFiles": [
+    "docs/Caffeine.md",
+    "journal/2022-09-21.md",
     "journal/2022-09-24.md",
-    "docs/Yellow River.md",
-    "docs/Gong Gong.md",
-    "docs/Tom Bombadil.md",
-    "docs/Ungoliant.md",
-    "docs/Zhu Rong.md",
-    "docs/Nuwa & Fuxi.md",
-    "docs/Yubu.md",
-    "docs/Chinese Directions.md",
-    "docs/Heavenly Realm.md"
+    "docs/Pataikos.md",
+    "docs/Camiguin.md",
+    "docs/Enzyme.md",
+    "docs/Sirinan.md",
+    "docs/Bulol.md",
+    "docs/Cornea.md",
+    "docs/Duamutef.md"
   ]
 }

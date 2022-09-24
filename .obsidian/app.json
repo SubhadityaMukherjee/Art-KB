@@ -5,7 +5,7 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "docs",
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "alphabetical",
   "vimMode": true,
   "communityPluginSortOrder": "release",
   "newLinkFormat": "relative"
