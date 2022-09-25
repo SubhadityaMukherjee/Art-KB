@@ -1,0 +1,8 @@
+---
+title: Tang Dynasty Makeup
+
+tags: fashion chinese 
+---
+
+# Tang Dynasty Makeup
+- ![History of Tang Dynasty Makeup Style](https://img-www.newhanfu.com/wp-content/uploads/2020/10/History-of-Tang-Dynasty-Makeup-Style-2.0.jpg)![History of Tang Dynasty Makeup Style](https://img-www.newhanfu.com/wp-content/uploads/2020/10/History-of-Tang-Dynasty-Makeup-Style-2.1.jpg)![History of Tang Dynasty Makeup Style](https://img-www.newhanfu.com/wp-content/uploads/2020/10/History-of-Tang-Dynasty-Makeup-Style-3.1.jpg)![History of Tang Dynasty Makeup Style](https://img-www.newhanfu.com/wp-content/uploads/2020/10/History-of-Tang-Dynasty-Makeup-Style-3.2.jpg)![History of Tang Dynasty Makeup Style](https://img-www.newhanfu.com/wp-content/uploads/2020/10/History-of-Tang-Dynasty-Makeup-Style-7.1.jpg)![History of Tang Dynasty Makeup Style](https://img-www.newhanfu.com/wp-content/uploads/2020/10/History-of-Tang-Dynasty-Makeup-Style-8.1.jpg)![History of Tang Dynasty Makeup Style](https://img-www.newhanfu.com/wp-content/uploads/2020/10/History-of-Tang-Dynasty-Makeup-Style-9.0.jpg)![History of Tang Dynasty Makeup Style](https://img-www.newhanfu.com/wp-content/uploads/2020/10/History-of-Tang-Dynasty-Makeup-Style-10.1.jpg)![History of Tang Dynasty Makeup Style](https://img-www.newhanfu.com/wp-content/uploads/2020/10/History-of-Tang-Dynasty-Makeup-Style-13.0.jpg)![](http://en.chinaculture.org/chineseway/images/attachement/jpg/site1/20140401/0023ae606d2214a45eb401.jpg)

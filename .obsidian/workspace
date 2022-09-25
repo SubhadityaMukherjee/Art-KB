@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-09-24.md",
+            "file": "docs/Sui, Tang, Song Dynasties Clothes.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "37e9bd1434a57fb5",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-09-24.md",
+                "file": "docs/Sui, Tang, Song Dynasties Clothes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-09-24.md",
+                "file": "docs/Sui, Tang, Song Dynasties Clothes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-09-24.md"
+                "file": "docs/Sui, Tang, Song Dynasties Clothes.md"
               }
             }
           }
@@ -125,19 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 191.5
+    "width": 137.5
   },
   "active": "19f591e787cf9d95",
   "lastOpenFiles": [
-    "docs/Aggirigira.md",
-    "docs/Guanyin.md",
-    "docs/Guru.md",
-    "docs/Yubu.md",
-    "journal/2022-09-24.md",
-    "docs/Themyscira.md",
-    "docs/Zeus.md",
-    "docs/Son of Chal-chal.md",
-    "docs/Xiqu (犀渠).md",
-    "docs/Cereal.md"
+    "docs/Tang Dynasty Makeup.md",
+    "docs/Sui, Tang, Song Dynasties Clothes.md",
+    "docs/Hanfu.md",
+    "docs/Silla Dynasty Clothes.md",
+    "docs/Qing Dynasty Clothes.md",
+    "docs/Western Jin Dynasty (Clothes).md",
+    "docs/Zhou Dynasty Clothes.md",
+    "docs/yi.md",
+    "docs/Pao.md",
+    "docs/Shenyi.md"
   ]
 }

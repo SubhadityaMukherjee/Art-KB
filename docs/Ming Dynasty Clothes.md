@@ -1,0 +1,18 @@
+---
+title: docs/Ming Dynasty Clothes
+tags: fashion chinese
+---
+
+# Ming Dynasty Clothes
+- The Ming Dynasty was the last Han-led dynasty. The emperor wanted to restore the whole Han culture and tradition, including restoring all the clothing fashions of the Tang Dynasty.
+- However, lots of Mongolian-style attire and hats still prevailed, as did clothing changes from the Song era.
+- Confucian Codes Were Re-popularized and Women's Clothes Were Prone to Being More Conservative.
+- The Upper Outer Garment Was Shorter and the Lower Garment Was Longer, and the Outer Coat Became Longer to Shorten the Exposed Skirt's Length.
+- There were many new changes in costume of the Ming Dynasty (1368-1644). The outstanding feature was that the buttons on the forepart replaced the band knots in use for several thousand years. However, it was not in the Ming Dynasty that buttons first came into being. Some buttons were sewn on the waistline of the braid coat of the Yuan Dynasty (1271-1368). The use of buttons was also an invention that embodied the advancement of that era. In addition, the popularization of Confucian school of idealist philosophy also affected the dressing style to a certain degree.
+- Compared with the costume of the Tang Dynasty (618-907), the proportion of the upper outer garment to lower skirt in the Ming Dynasty was significantly inverted. Since the upper outer garment was shorter and the lower garment was longer, the jacket gradually became longer to shorten the length of the exposed skirt, and the collar changed from the symmetrical type of the Song Dynasty (960-1279) to the main circular type.  
+- Skirt color was inclined to be light. Skirt pleats, including dense pleats and big pleats, became very popular.  
+- In addition, short embroidered capes worn over a woman's shoulder were popular in the Ming Dynasty. Because these capes looked like beautiful rosy cloud, they were also called Rosy Cloud Cape. Such capes first appeared in the Northern and Southern Dynasties. They were in the shape of a very long colored band, could encircle the neck and reach the chest with gold or bowlder pendants at the lower end, looking very elegant.
+- There was also a sort of waistcoats with buttons down the front, which first appeared in the Yuan Dynasty and was originally special costume for the queen. Gradually, they were introduced into the life of ordinary people. Young ladies in the mid Ming Dynasty usually preferred to dress in these waistcoats. The waistcoats in the Qing Dynasty were transformed from those of the Yuan Dynasty.  
+- Another feature of costume in the Ming Dynasty was that the garment front was decorated with various striking adornments made of gold, jade and pearl, etc. A special adornment was a golden chain hung with nipper, toothpick, ear pick and small knife, articles that were often used by women in their daily life.  
+- Men's costume in the Ming Dynasty typically adopted the form of chuddar and circular collar. They featured broad sleeves, inlaid black brims and cyan circular collar. Men wore black silk ribbon, soft chuddar and drooping strap.
+- Paddy-field costumes were dresses for ordinary women in the Ming Dynasty. They were sewn with bits and pieces of brocades in various colors and looked like the cassocks of shamans. Colors of the materials of the whole dress were mutually interlaced and the form was just like the paddy field, hence the name "paddy-field costumes".
