@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
 
-tags: fashion chinese 
+tags: architecture chinese 
 ---
 
 # <% tp.file.title %>

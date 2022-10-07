@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "19f591e787cf9d95",
+        "id": "520c687b548fb3b9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Sui, Tang, Song Dynasties Clothes.md",
+            "file": "journal/2022-10-06.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sui, Tang, Song Dynasties Clothes.md",
+                "file": "journal/2022-10-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Sui, Tang, Song Dynasties Clothes.md",
+                "file": "journal/2022-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Sui, Tang, Song Dynasties Clothes.md"
+                "file": "journal/2022-10-06.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 137.5
   },
-  "active": "19f591e787cf9d95",
+  "active": "520c687b548fb3b9",
   "lastOpenFiles": [
-    "docs/Tang Dynasty Makeup.md",
-    "docs/Sui, Tang, Song Dynasties Clothes.md",
-    "docs/Hanfu.md",
-    "docs/Silla Dynasty Clothes.md",
-    "docs/Qing Dynasty Clothes.md",
-    "docs/Western Jin Dynasty (Clothes).md",
-    "docs/Zhou Dynasty Clothes.md",
-    "docs/yi.md",
-    "docs/Pao.md",
-    "docs/Shenyi.md"
+    "docs/Chinese Architecture.md",
+    "docs/Chinese Taoist Architecture.md",
+    "docs/Chinese Buddhist Architecture.md",
+    "journal/2022-10-06.md",
+    "docs/Chinese Wooden Building.md",
+    "docs/Dougong.md",
+    "docs/Chinese Temple Architecture.md",
+    "docs/Chinese Domestic Architecture.md",
+    "docs/Diaojiulou.md",
+    "docs/Tulou.md"
   ]
 }
